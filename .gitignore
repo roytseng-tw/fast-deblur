@@ -1,0 +1,8 @@
+/training_checkpoints/*
+/training_tests/*
+/VDSR/*
+/vgg19/*
+/test_bsds_old/*
+/model_deblur/*
+Blur Filter.txt
+imagenet-vgg-verydeep-19.mat

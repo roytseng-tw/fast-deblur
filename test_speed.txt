@@ -1,0 +1,2 @@
+w/  saving: 200 images, 14.1406178474 secs --> 0.0707030892372 secs per image
+w/o saving: 200 images, 14.0724499226 secs --> 0.0703622496128 secs per image
